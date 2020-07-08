@@ -1,11 +1,6 @@
-## My Project
+## EC2 Spot Instances integrations roadmap
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This is the public roadmap for Amazon EC2 Spot Instances integrations (https://aws.amazon.com/ec2/spot/)
 
 ## Security
 
