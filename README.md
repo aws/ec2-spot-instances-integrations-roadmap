@@ -36,7 +36,7 @@ A: Because job zero is security and operational stability, we can't provide spec
 
 **Q: Is everything on the roadmap?**
 
-A: The majority of our development work AWS-sponsored OSS projects and third-party OSS projects are included on this roadmap. Of course, there will be technologies we are very excited about that we are going to launch without notice to surprise and delight our customers.
+*A: The majority of our development work AWS-sponsored OSS projects and third-party OSS projects are included on this roadmap. Of course, there will be technologies we are very excited about that we are going to launch without notice to surprise and delight our customers.*
 
 **Q: How can I provide feedback or ask for more information?**
 
