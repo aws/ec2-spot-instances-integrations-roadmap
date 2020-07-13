@@ -22,7 +22,7 @@ If you think you’ve found a potential security issue, please do not post it in
 
 ## FAQs
 
-**Q: Why did you build this?
+**Q: Why did you build this?**
 
 A: We know that our customers are making decisions and plans based on what we are developing, and we want to provide our customers the insights they need to plan.
 
@@ -36,7 +36,7 @@ A: Because job zero is security and operational stability, we can't provide spec
 
 **Q: Is everything on the roadmap?**
 
-*A: The majority of our development work AWS-sponsored OSS projects and third-party OSS projects are included on this roadmap. Of course, there will be technologies we are very excited about that we are going to launch without notice to surprise and delight our customers.*
+*A: The majority of our development work on AWS-sponsored OSS projects and third-party OSS projects are included on this roadmap. Of course, there will be technologies we are very excited about that we are going to launch without notice to surprise and delight our customers.*
 
 **Q: How can I provide feedback or ask for more information?**
 
