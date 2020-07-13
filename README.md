@@ -1,6 +1,6 @@
 ## EC2 Spot Instances integrations roadmap
 
-This is the public roadmap for Amazon EC2 Spot Instances integrations (https://aws.amazon.com/ec2/spot/)
+This is the public roadmap for Amazon EC2 Spot Instances integrations (https://aws.amazon.com/ec2/spot/).
 
 ## Security
 
