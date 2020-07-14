@@ -3,8 +3,8 @@
 This is the public roadmap for Amazon EC2 Spot Instances integrations (https://aws.amazon.com/ec2/spot/).
 
 ## Introduction
-This is the experimental public roadmap for Amazon EC2 Spot Instances integrations.
-Knowing about our upcoming products and priorities helps our customers plan. This repository contains information about what we are working on and allows all AWS customers to give direct feedback.
+This is the experimental public roadmap for Amazon EC2 Spot Instances integrations with open source software and frameworks.
+Knowing about our upcoming projects and priorities helps our customers plan. This repository contains information about what we are working on and allows all AWS customers to give direct feedback.
 
 [See the roadmap »](https://github.com/aws/ec2-spot-instances-integrations-roadmap/projects/1)
 
