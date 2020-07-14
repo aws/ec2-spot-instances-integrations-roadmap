@@ -20,9 +20,6 @@ assignees: ''
 **Tell us about your request**
 What do you want us to build?
 
-**Which service(s) is this request for?**
-This could be Fargate, ECS, EKS, ECR
-
 **Tell us about the problem you're trying to solve. What are you trying to do, and why is it hard?**
 What outcome are you trying to achieve, ultimately, and why is it hard/impossible to do right now? What is the impact of not having this problem solved? The more details you can provide, the better we'll be able to understand and solve the problem.
 
