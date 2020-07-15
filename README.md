@@ -27,6 +27,7 @@ If you think you’ve found a potential security issue, please do not post it in
 A: We know that our customers are making decisions and plans based on what we are developing, and we want to provide our customers the insights they need to plan.
 
 **Q: Why are there no dates on your roadmap?**
+
 A: Because job zero is security and operational stability, we can't provide specific target dates for features.
 
 **Q: What do the roadmap categories mean?**
